@@ -1,0 +1,11 @@
+# Matlab Workspaces
+*.mat
+
+# Assignment Files
+*.zip
+*.pdf
+*.jpg
+*.png
+*.gif
+*.avi
+*.pgm
